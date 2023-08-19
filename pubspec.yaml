@@ -1,15 +1,17 @@
 name: multipurpose_widgetkit
-description: A starting point for Dart libraries or applications.
-version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+description: Multipurpose widget for any apps.
+version: 0.0.1
+repository: https://github.com/ajianaz/multipurpose_widgetkit
 
 environment:
   sdk: ^3.0.6
+  flutter: '>=3.0.0'
 
-# Add regular dependencies here.
 dependencies:
-  # path: ^1.8.0
-
+  flutter:
+    sdk: flutter
 dev_dependencies:
   lints: ^2.0.0
   test: ^1.21.0
+
+flutter:
